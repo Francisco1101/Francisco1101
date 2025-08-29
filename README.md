@@ -23,6 +23,8 @@ Soy una persona responsable, con facilidad para el trabajo en equipo y en consta
 <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 
+
+
 <div align="left">
 
 | Lenguaje | Entorno de desarrollo | Framework |
