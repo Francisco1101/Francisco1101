@@ -33,6 +33,6 @@ Soy una persona responsable, con facilidad para el trabajo en equipo y en consta
 
 
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src = "https://github.com/Francisco1101/Francisco1101/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
