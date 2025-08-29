@@ -23,6 +23,11 @@ Soy una persona responsable, con facilidad para el trabajo en equipo y en consta
 <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 
+</a>
+<a href="https://www.facebook.com/profile.php?id=100069837041507&locale=es_LA" target="_blank">
+<img src=https://img.shields.io/badge/element-0DBD8B.svg?style=for-the-badge&logo=element&logoColor=white alt=facebook style="margin-bottom: 5px;"/>
+</a>
+
 ##
 
 <div align="left">
