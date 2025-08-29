@@ -23,10 +23,10 @@ Soy una persona responsable, con facilidad para el trabajo en equipo y en consta
 <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 
-<div align="Center">
+<div align="left">
 
-| Website | Programming |
+| Lenguaje | Entorno de desarrollo |
 | ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=py"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,github"/> |
+| <img src="https://skillicons.dev/icons?i=py"/> | <img src="https://skillicons.dev/icons?i=vscode,github"/> |
 
 </div>
