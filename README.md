@@ -25,7 +25,7 @@ Soy una persona responsable, con facilidad para el trabajo en equipo y en consta
 
 </a>
 <a href="https://www.facebook.com/profile.php?id=100069837041507&locale=es_LA" target="_blank">
-<img src=https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white alt=facebook style="margin-bottom: 5px;"/>
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 </a>
 
 ##
