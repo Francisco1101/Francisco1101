@@ -70,7 +70,4 @@ Soy una persona responsable, con facilidad para el trabajo en equipo y en consta
 
 <br>
 
-<p align = "center">
-	<img src = "https://github.com/Francisco1101/Francisco1101/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
 
