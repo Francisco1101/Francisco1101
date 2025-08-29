@@ -10,4 +10,4 @@
 - ⚡ 
 
 ## Cursos
-<img alig="center" height="240px" src="file:///G:/Users/alexis/Desktop/accesosdirecktos%202.0/cosas/fran/certificado%20python%201_page-0001.jpg">
+<img alig="center" height="240px" src="certificado python 1_page-0001.jpg">
