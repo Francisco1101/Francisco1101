@@ -30,3 +30,9 @@ Soy una persona responsable, con facilidad para el trabajo en equipo y en consta
 | <img src="https://skillicons.dev/icons?i=py"/> | <img src="https://skillicons.dev/icons?i=vscode,github"/> | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 </div>
+
+
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
