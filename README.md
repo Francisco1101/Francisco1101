@@ -25,8 +25,8 @@ Soy una persona responsable, con facilidad para el trabajo en equipo y en consta
 
 <div align="left">
 
-| Lenguaje | Entorno de desarrollo |
-| ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=py"/> | <img src="https://skillicons.dev/icons?i=vscode,github"/> |
+| Lenguaje | Entorno de desarrollo | Framework |
+| ------------- | ------------- | ----------- |
+| <img src="https://skillicons.dev/icons?i=py"/> | <img src="https://skillicons.dev/icons?i=vscode,github"/> | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 </div>
