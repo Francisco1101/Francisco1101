@@ -4,7 +4,7 @@
 
 ## Soy estudiante de ingenieria Informatica
 
-##Cursos
+## Cursos
 <img alig="center" height="240px" src="">
 - 👨‍💻 
 - 📚 
