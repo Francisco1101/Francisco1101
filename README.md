@@ -11,7 +11,7 @@ Soy una persona responsable, con facilidad para el trabajo en equipo y en consta
 - 🤝 Trabajo bien en equipo
 - 💼 Soy responsable
 
-## Certificado
+## Certificados
 <img alig="center" height="240px" src="certificado python 1_page-0001.jpg">
 
 ## 🌐Redes sociales🌐
