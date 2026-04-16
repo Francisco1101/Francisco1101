@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-<br>##Soy estudiante de ingenieria Informatica<br>
+<p style="font-size:20px;">Soy estudiante de ingenieria Informatica</p>
 
 Soy una persona responsable, con facilidad para el trabajo en equipo y en constante búsqueda de mejorar mis habilidades técnicas. Actualmente me encuentro abierto a oportunidades de aprendizaje, prácticas profesionales y proyectos colaborativos que me permitan crecer en el ámbito tecnológico
 ## Habilidades
