@@ -1,8 +1,7 @@
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,Soy Francsico 👩‍💻</h1>
 
-<br><img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /><br>
-
 <p>Soy estudiante de Ingenieria Informatica, con facilidad para el trabajo en equipo y en constante búsqueda de mejorar mis habilidades técnicas. Actualmente me encuentro abierto a oportunidades de aprendizaje, prácticas profesionales y proyectos colaborativos que me permitan crecer en el ámbito tecnológico</p>
+<br><img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /><br>
 
 ## Habilidades
 - 👨‍💻 Tengo un buen pensamiento logico
