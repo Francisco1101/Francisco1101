@@ -9,7 +9,8 @@
 - 🤝 Trabajo bien en equipo
 - 💼 Soy responsable
 
-## Certificados
+## 🎓Certificados🎓
+
 <img alig="center" height="240px" src="certificado python 1_page-0001.jpg">
 
 ## 🌐Redes sociales🌐
