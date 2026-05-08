@@ -33,7 +33,7 @@
 
 | Lenguaje | Entorno de desarrollo | Framework |
 | ------------- | ------------- | ----------- |
-| <img src="https://skillicons.dev/icons?i=py, php-logo.png"/> | <img src="https://skillicons.dev/icons?i=vscode,github"/> | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+| <img src="https://skillicons.dev/icons?i=py"/> <img src="php-logo.png"/>| <img src="https://skillicons.dev/icons?i=vscode,github"/> | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 </div>
 <br>
